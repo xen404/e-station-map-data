@@ -1,0 +1,1004 @@
+[
+    {
+        "id": 134401,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "H\u00f6fleinerstra\u00dfe 7, 2070 Retz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276441951
+    },
+    {
+        "id": 134400,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "Stadionstra\u00dfe 15, 2700 Wiener Neustadt",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442317
+    },
+    {
+        "id": 134365,
+        "name": "Vorarlberger Kraftwerke AG",
+        "address": "Lambacher Stra\u00dfe 8, 4655 Vorchdorf",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442694
+    },
+    {
+        "id": 134315,
+        "name": "\u00d6AMTC Betriebe GmbH",
+        "address": "Oberj\u00e4gerplatz 1 , 8570 B\u00e4rnbach",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443025
+    },
+    {
+        "id": 134296,
+        "name": "has.to.be",
+        "address": "Roanweg 14 , 6450 S\u00f6lden",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443381
+    },
+    {
+        "id": 134288,
+        "name": "IKB",
+        "address": "Halltal 16 , 6067 Absam",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276443733
+    },
+    {
+        "id": 134289,
+        "name": "IKB",
+        "address": "D\u00f6rferstra\u00dfe 32 , 6067 Absam",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276444122
+    },
+    {
+        "id": 134279,
+        "name": "has.to.be",
+        "address": "Obere Marktstra\u00dfe 32 , 5541 Altenmarkt im Pongau",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276444424
+    },
+    {
+        "id": 134282,
+        "name": "has.to.be",
+        "address": "H\u00f6rbach 4 , 4673 H\u00f6rbach",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444797
+    },
+    {
+        "id": 134268,
+        "name": "has.to.be",
+        "address": "Almteilweg 1 , 6706 B\u00fcrs",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276445157
+    },
+    {
+        "id": 134401,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "H\u00f6fleinerstra\u00dfe 7, 2070 Retz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276441988
+    },
+    {
+        "id": 134400,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "Stadionstra\u00dfe 15, 2700 Wiener Neustadt",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442323
+    },
+    {
+        "id": 134365,
+        "name": "Vorarlberger Kraftwerke AG",
+        "address": "Lambacher Stra\u00dfe 8, 4655 Vorchdorf",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442796
+    },
+    {
+        "id": 134315,
+        "name": "\u00d6AMTC Betriebe GmbH",
+        "address": "Oberj\u00e4gerplatz 1 , 8570 B\u00e4rnbach",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443061
+    },
+    {
+        "id": 134296,
+        "name": "has.to.be",
+        "address": "Roanweg 14 , 6450 S\u00f6lden",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443432
+    },
+    {
+        "id": 134288,
+        "name": "IKB",
+        "address": "Halltal 16 , 6067 Absam",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276443758
+    },
+    {
+        "id": 134289,
+        "name": "IKB",
+        "address": "D\u00f6rferstra\u00dfe 32 , 6067 Absam",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276444158
+    },
+    {
+        "id": 134282,
+        "name": "has.to.be",
+        "address": "H\u00f6rbach 4 , 4673 H\u00f6rbach",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444468
+    },
+    {
+        "id": 134279,
+        "name": "has.to.be",
+        "address": "Obere Marktstra\u00dfe 32 , 5541 Altenmarkt im Pongau",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276444833
+    },
+    {
+        "id": 134264,
+        "name": "has.to.be",
+        "address": "Mariatroster Stra\u00dfe 12 , 8043 Graz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276445167
+    },
+    {
+        "id": 134265,
+        "name": "has.to.be",
+        "address": "Mariatroster Stra\u00dfe 12 , 8043 Graz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442254
+    },
+    {
+        "id": 134266,
+        "name": "has.to.be",
+        "address": "Almteilweg 1 , 6706 B\u00fcrs",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442568
+    },
+    {
+        "id": 134267,
+        "name": "has.to.be",
+        "address": "Almteilweg 1 , 6706 B\u00fcrs",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442865
+    },
+    {
+        "id": 134268,
+        "name": "has.to.be",
+        "address": "Almteilweg 1 , 6706 B\u00fcrs",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276443263
+    },
+    {
+        "id": 134263,
+        "name": "has.to.be",
+        "address": "Mariatroster Stra\u00dfe 12 , 8043 Graz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443608
+    },
+    {
+        "id": 134235,
+        "name": "SMATRICS GmbH und Co KG",
+        "address": "Traunuferstra\u00dfe 129 , 4052 Ansfelden",
+        "status": [
+            {
+                "type": "CCS",
+                "power": "300 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CCS",
+                "power": "300 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CHAdeMO",
+                "power": "50 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CCS",
+                "power": "300 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CCS",
+                "power": "300 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443940
+    },
+    {
+        "id": 134232,
+        "name": "eCarUp AG",
+        "address": "Mayrhofen Stillupklamm , 6290 Mayrhofen",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444309
+    },
+    {
+        "id": 134230,
+        "name": "Allmobil",
+        "address": "Hirschstettner Str. 38, 1220 Wien",
+        "status": [
+            {
+                "type": "CCS",
+                "power": "25 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444608
+    },
+    {
+        "id": 134231,
+        "name": "Allmobil",
+        "address": "Hirschstettner Str. 38, 1220 Wien",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444917
+    },
+    {
+        "id": 134228,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "H\u00f6fleinerstra\u00dfe 17, 2070 Retz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276445319
+    },
+    {
+        "id": 134205,
+        "name": "Vorarlberger Kraftwerke AG",
+        "address": "Hausruckstra\u00dfe 6a, 4843 Ampflwang",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "besetzt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442138
+    },
+    {
+        "id": 134201,
+        "name": "EPP GmbH",
+        "address": "Dammgasse 62, 2500 Baden",
+        "status": [
+            {
+                "type": "CCS",
+                "power": "120 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442481
+    },
+    {
+        "id": 134153,
+        "name": "Energie Burgenland_BE\u00d6",
+        "address": "Hauptgasse 8, 7163 Andau",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442869
+    },
+    {
+        "id": 134139,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "Bodenzeile 1b, 2403 Scharndorf",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443274
+    },
+    {
+        "id": 134116,
+        "name": "\u00d6AMTC Betriebe GmbH",
+        "address": "Leibnitzer Stra\u00dfe 303 , 8454 Arnfels",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443570
+    },
+    {
+        "id": 134117,
+        "name": "\u00d6AMTC Betriebe GmbH",
+        "address": "K\u00e4rntner Stra\u00dfe 27 , 8820 Neumarkt in der Steiermark",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "au\u00dfer Betrieb"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276443976
+    },
+    {
+        "id": 134083,
+        "name": "has.to.be",
+        "address": "Voralpenkreuz 2 , 4642 Sattledt",
+        "status": [
+            {
+                "type": "CCS",
+                "power": "75.2 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CCS",
+                "power": "75.2 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444284
+    },
+    {
+        "id": 134080,
+        "name": "has.to.be",
+        "address": "Hauptplatz 1 , 8641 St. Marein im M\u00fcrztal",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276444716
+    },
+    {
+        "id": 134075,
+        "name": "has.to.be",
+        "address": "Kirchplatz 2 , 6820 Frastanz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "besetzt"
+            }
+        ],
+        "timestamp": 1652276445040
+    },
+    {
+        "id": 134045,
+        "name": "has.to.be",
+        "address": "Aistersheim 100 , 4676 Aistersheim",
+        "status": [
+            {
+                "type": "CCS",
+                "power": "75.2 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "CCS",
+                "power": "75.2 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276445391
+    },
+    {
+        "id": 134056,
+        "name": "has.to.be",
+        "address": "Schentensteig 1a , 6500 Landeck",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442174
+    },
+    {
+        "id": 134058,
+        "name": "has.to.be",
+        "address": "Habichen 46 , 6433 Habichen",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276442607
+    },
+    {
+        "id": 134033,
+        "name": "has.to.be",
+        "address": "Habichen 46 , 6433 Habichen",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276442906
+    },
+    {
+        "id": 134039,
+        "name": "has.to.be",
+        "address": "Kirchplatz 2 , 8650 Kindberg",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "au\u00dfer Betrieb"
+            }
+        ],
+        "timestamp": 1652276443347
+    },
+    {
+        "id": 134032,
+        "name": "has.to.be",
+        "address": "Austra\u00dfe 16 , 6710 Nenzing",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443679
+    },
+    {
+        "id": 134031,
+        "name": "LINZ AG ",
+        "address": "Marktplatz -, 4193 Reichenthal",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276444039
+    },
+    {
+        "id": 133994,
+        "name": "SMATRICS GmbH und Co KG",
+        "address": "Weisstra\u00dfe 9 , 6112 Wattens",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "besetzt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "besetzt"
+            }
+        ],
+        "timestamp": 1652276444363
+    },
+    {
+        "id": 133964,
+        "name": "TIWAG-Tiroler Wasserkraft AG",
+        "address": "K\u00fchtrainstra\u00dfe , 6450 S\u00f6lden",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            },
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276444706
+    },
+    {
+        "id": 133955,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "EVN-Platz 1, 2344 Maria Enzersdorf",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276445061
+    },
+    {
+        "id": 133956,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "Heidestra\u00dfe 21, 2402 Maria Elend",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276445489
+    },
+    {
+        "id": 133954,
+        "name": "EVN (CPO) EVN Energievertrieb GmbH & Co KG",
+        "address": "Heidestra\u00dfe 21, 2402 Maria Elend",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276442062
+    },
+    {
+        "id": 133936,
+        "name": "LINZ AG ",
+        "address": "Wiener Stra\u00dfe 151, 4020 Linz",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442447
+    },
+    {
+        "id": 133929,
+        "name": "Energie Burgenland_BE\u00d6",
+        "address": "Kasernenstra\u00dfe 9a, 7000 Eisenstadt",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "22 KW",
+                "status": "unbekannt"
+            }
+        ],
+        "timestamp": 1652276442794
+    },
+    {
+        "id": 133926,
+        "name": "chargecloud GmbH ",
+        "address": "Buchberg 70, 8223 Stubenberg am See",
+        "status": [
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            },
+            {
+                "type": "Typ 2",
+                "power": "11 KW",
+                "status": "frei"
+            }
+        ],
+        "timestamp": 1652276443200
+    }
+]
